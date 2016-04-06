@@ -14,8 +14,9 @@ This plugin is heavily inspired by [serverless-runtime-babel](https://github.com
 
 ## Install
 **Note:** Serverless v0.5.0 or higher is required.
-* Install via npm in the root of your Serverless Project: `npm install serverless-runtime-webpack --save`
+* Install via npm in the root of your Serverless Project: `npm install serverless-runtime-webpack --save-dev`
 * In the `plugins` array in your `s-project.json` add `"serverless-runtime-webpack"`
+* Install the loaders you will use in your Webpack configuration `npm install babel-loader --save-dev`
 * All done!
 
 ## Usage
