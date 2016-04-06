@@ -1,0 +1,6 @@
+{
+  "repos": [
+    "serverless/serverless",
+    "serverless/serverless-runtime-babel"
+  ]
+}
