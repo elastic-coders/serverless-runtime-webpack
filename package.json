@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ErikMikkelson/serverless-runtime-webpack.git"
+    "url": "git+https://github.com/elastic-coders/serverless-runtime-webpack.git"
   },
   "keywords": [
     "serverless",
@@ -20,9 +20,9 @@
   "author": "Nicola Peduzzi <elastic-coders.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ErikMikkelson/serverless-runtime-webpack/issues"
+    "url": "https://github.com/elastic-coders/serverless-runtime-webpack/issues"
   },
-  "homepage": "https://github.com/ErikMikkelson/serverless-runtime-webpack#readme",
+  "homepage": "https://github.com/elastic-coders/serverless-runtime-webpack#readme",
   "dependencies": {
     "bluebird": "^3.3.4",
     "chalk": "^1.1.3",
