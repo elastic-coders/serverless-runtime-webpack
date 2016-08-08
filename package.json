@@ -1,6 +1,6 @@
 {
   "name": "serverless-runtime-webpack",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "A Webpack runtime for the Serverless framework",
   "main": "index.js",
   "scripts": {
