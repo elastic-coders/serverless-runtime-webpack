@@ -4,6 +4,8 @@
 
 A plugin to use Webpack to run and build your Serverless function.
 
+:rocket: **For Serverless v1.0 check out the new implementation of this plugin called [serverless-webpack](https://github.com/elastic-coders/serverless-webpack).**
+
 This plugin is heavily inspired by
 [serverless-runtime-babel](https://github.com/serverless/serverless-runtime-babel)
 and
